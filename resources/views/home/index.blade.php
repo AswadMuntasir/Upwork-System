@@ -239,7 +239,7 @@
 							<a href="">Upwork</a>
 							&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
 						
-							<button class="btn p-0-left-right" type="submit">Submit search</button>
+							<button class="btn p-0-left-right" type="submit" value="Submit">Submit search</button>
 							<div class="dropdown">
 								<select class="dropdown" name="type" id="type">
 									<option value="freelancers">Freelancers</option>
